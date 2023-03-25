@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author CHAN
+ *
+ */
+module test {
+}
